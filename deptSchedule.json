@@ -1,0 +1,26 @@
+{
+    "Sunday" : [
+        {
+            "Name" : "Jim",
+            "Hours" : "12:30PM to 3:30PM",
+            "Lunch" : "No"
+        },
+        {
+            "Name" : "Bob",
+            "Hours": "3:30PM to 9:00PM",
+            "Lunch": "5:30pm to 6:00PM"
+        }
+    ],
+
+    "Monday" : "",
+
+    "Tuesday" : "",
+
+    "Wednesday" : "",
+
+    "Thursday" : "",
+
+    "Friday" : "",
+
+    "Saturday" : ""
+}
